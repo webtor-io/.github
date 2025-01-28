@@ -20,8 +20,8 @@ Experience effortless torrent streaming directly in your browser. Stream videos,
 ### 🔹 [Self-Hosted Webtor](https://github.com/webtor-io/self-hosted)  
 Deploy Webtor on your own infrastructure using our all-in-one Docker image. It’s simple, fast, and perfect for advanced users.  
 
-### 🔹 [Player SDK](https://github.com/webtor-io/player-sdk)  
-A lightweight and customizable player SDK to integrate torrent playback into your applications.  
+### 🔹 [Embed Javascript SDK](https://github.com/webtor-io/embed-sdk-js)  
+A lightweight and customizable embed SDK to integrate torrent playback into your applications.  
 
 ---
 
